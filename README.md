@@ -19,3 +19,6 @@ The "Product Reviews" dataset contains text reviews for various products along w
 ```bash
 https://github.com/Riddhimasalkar/Sentiment-Analysis/edit/main/README.md
 cd Sentiment-Analysis
+
+Conclusion:
+The Sentiment Analysis project provides a reliable model for classifying product reviews into positive or negative sentiments. By using the TF-IDF technique for feature extraction and a Support Vector Machine (SVM) classifier, we can achieve accurate sentiment classification. This model enables businesses to understand customer sentiments better and make data-driven decisions to enhance their products and services.
